@@ -7,7 +7,7 @@ class Band {
         
         this.id = uuidV4(); // identificador único
         this.name  = name;
-        this.votes = 0;
+        this.votes = 1;
     }
 
 }
